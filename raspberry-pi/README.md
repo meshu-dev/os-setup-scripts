@@ -45,3 +45,7 @@ When docker containers run the internet should work as normal.
 
 
 Reference: [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/58809/rpi-loses-its-wlan0-configuration-when-any-docker-container-is-started)
+
+
+
+https://www.reddit.com/r/docker/comments/wzgkd9/error_while_installing_dockercompose_on_a_rpi4/
